@@ -1,18 +1,27 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-<head>
-   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }}</title>
+<html>
+  {% include head.html %}
+  <body>
+    {% include sidebar.html %}
 
-   <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+    <main id="main">
+      {{ content }}
 
-   <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+      <div class="footer">
+        <div class="container">
+          <p class="footer-entry">All content is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA</a></p>
+          <p class="footer-entry">Buit with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/P233/3-Jekyll" target="_blank">3-Jekyll theme</a> • Hosted on <a href="https://pages.github.com/" target="_blank">Github</a></p>
+        </div>
+      </div>
+    </main>
 
-   <!-- Typekit -->
-</head>
-<body>
-	{{ content }}
-</body>
+    <button id="menu">
+      <span id="menu-icons"></span>
+    </button>
+
+    {% include scripts.html %}
+  </body>
 </html>
