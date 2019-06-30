@@ -14,13 +14,13 @@ python3 -m pip install selenium
 driver 下载地址 ：[driver](https://sites.google.com/a/chromium.org/chromedriver/)
 
 ##  正确打开姿势
-{% hightlight python %}
+{% highlight python %}
 from selenium import webdriver
 
 
 driver = webdriver.Chrome('./chromedriver')
 driver.get('https://baidu.com')
-{% endhightlight %}
+{% endhighlight %}
 ## 通过id name 查找元素
 ```
 # driver.find_element_by_id('kw').send_keys("shei zhi dao")
