@@ -29,6 +29,7 @@ driver.find_element_by_id('su').click() # "按回车查找"
 
 ```
 ## 8 大 查找方式
+```
 find_element_by_id
 find_element_by_name
 find_element_by_xpath
@@ -37,6 +38,7 @@ find_element_by_partial_link_text
 find_element_by_tag_name
 find_element_by_class_name
 find_element_by_css_selector
+```
 
 ## 官方文档
 https://selenium-python.readthedocs.io/locating-elements.html
