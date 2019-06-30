@@ -43,3 +43,15 @@ find_element_by_css_selector
 ## 官方文档
 https://selenium-python.readthedocs.io/locating-elements.html
 
+## XPATH
+https://www.w3schools.com/xml/xpath_syntax.asp
+
+## CSS selector
+https://www.w3schools.com/cssref/css_selectors.asp
+
+## 用法
+通过 f12 然后点击左上角，然后选择对应的文本框或者按钮，再看 chropath 
+就可查看对应的xpath  和 css  值
+
+## 工具
+ChroPath - Google Chrome
