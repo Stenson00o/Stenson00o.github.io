@@ -1,3 +1,10 @@
+---
+layout: post
+title:	cronjob
+category: 技术
+tags: linuxcmd
+description: linuxcmd 关于cron job 解读
+---
  * * * * * CMD
 The * means all the possible unit — i.e every minute of every hour through out the year. More than using this * directly, you will find it very useful in the following cases.
 
@@ -39,3 +46,8 @@ This example checks the status of the database every weekday (i.e excluding Sat 
 * – Every month
 1-5 -Mon, Tue, Wed, Thu and Fri (Every Weekday)
 
+![cron1](../assets/img/cron1.jpg)
+![cron2](../assets/img/cron2.jpg)
+![cron3](../assets/img/cron3.jpg)
+![cron4](../assets/img/cron4.jpg)
+![cron5](../assets/img/cron5.jpg)
