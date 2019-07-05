@@ -46,8 +46,8 @@ This example checks the status of the database every weekday (i.e excluding Sat 
 * – Every month
 1-5 -Mon, Tue, Wed, Thu and Fri (Every Weekday)
 
-![cron1](https://github.com/Stenson00o/Stenson00o.github.io/blob/master/assets/img/cron1.jpg)
-![cron2](https://github.com/Stenson00o/Stenson00o.github.io/blob/master/assets/img/cron2.jpg)
-![cron3](https://github.com/Stenson00o/Stenson00o.github.io/blob/master/assets/img/cron3.jpg)
-![cron4](https://github.com/Stenson00o/Stenson00o.github.io/blob/master/assets/img/cron4.jpg)
-![cron5](https://github.com/Stenson00o/Stenson00o.github.io/blob/master/assets/img/cron5.jpg)
+![cron1](https://github.com/Stenson00o/Stenson00o.github.io/raw/master/assets/img/cron1.jpg)
+![cron2](https://github.com/Stenson00o/Stenson00o.github.io/raw/master/assets/img/cron2.jpg)
+![cron3](https://github.com/Stenson00o/Stenson00o.github.io/raw/master/assets/img/cron3.jpg)
+![cron4](https://github.com/Stenson00o/Stenson00o.github.io/raw/master/assets/img/cron4.jpg)
+![cron5](https://github.com/Stenson00o/Stenson00o.github.io/raw/master/assets/img/cron5.jpg)
