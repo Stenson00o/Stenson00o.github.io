@@ -5,9 +5,18 @@ category: 技术
 tags: win10
 description: win10 用注册表修改默认程序
 ---
-https://www.jianshu.com/p/7b5a7b304c2c?from=timeline&isappinstalled=0
-+ 第一步：打开注册表。Win+R(或打开“运行”)，输入“regedit”，并按回车。
-+ 第二步：在HKEY_CLASSES_ROOT里找到你想要更改的文件格式类型，如我的.hwt：
+# [病毒区]
++ 1、Operation Ghost(APT29): The Dukes aren’t back – they never left 
+https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/
 
-+ 第三步：继续在HKEY_CLASSES_ROOT文件夹下查找，找到hwt_auto_file文件夹（小技巧：你可以直接在上面的资源路径输入框里输入，并按回车），并且打开shell\open\command
-+ 第四步：修改注册表。右键点击“command”文件夹，选择导出。（原因是数据这一项无法直接修改，要先导出
++ 2、Aggressive Android adware communicates with a number of malicious domains 
+https://securitynews.sonicwall.com/xmlpost/aggressive-android-adware-communicates-with-a-number-of-malicious-domains/
+
++ 3、Pony’s C&C servers hidden inside the Bitcoin blockchain 
+https://research.checkpoint.com/ponys-cc-servers-hidden-inside-the-bitcoin-blockchain/
+
++ 4、Checkrain fake iOS jailbreak leads to click fraud 
+https://blog.talosintelligence.com/2019/10/checkrain-click-fraud.html
+
++ 5、Let's Learn: Dissecting Lazarus Windows x86 Loader Involved in Crypto Trading App Distribution: "snowman" & ADVObfuscator 
+https://www.vkremez.com/2019/10/lets-learn-dissecting-lazarus-windows.html
